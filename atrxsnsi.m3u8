@@ -1,6 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://ys-users.com:8080/turneradt@gmail.com/S2PEcrwpdm/&stream=497611&extension=m3u8
-http://ys-users.com:8080/williamvphillips@gmail.com/jnMfKpgS7m/497611.ts
-http://ys-users.com:8080/williamvphillips@gmail.com/jnMfKpgS7m/497611.mpd
+http://ys-users.com:8080/get.php?username=turneradt@gmail.com&password=S2PEcrwpdm&stream=497611&extension=m3u8
+
