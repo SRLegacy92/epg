@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://dmtn.tv:8080/play/live.php?mac=00:1A:79:50:BA:35&stream=407476&extension=m3u8&play_token=WlOYMpH9Ob
+http://dmtn.tv:8080/play/live.php?mac=00:1A:79:45:5E:9A&stream=407476&extension=m3u8&play_token=1kEm8DbZmS
 http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/407476.m3u8
