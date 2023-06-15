@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+http://188.165.218.151:8080/live/haji/haji/172.m3u8
 http://149.18.85.131/live/8059765630/3322606439/79327.m3u8
 http://humiptv.live:8080/play/live.php?username=876465421460&password=087543135678&stream=143029&extension=m3u8
 http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=941612&extension=m3u8&play_token=xdbt7BgLik
